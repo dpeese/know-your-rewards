@@ -1,14 +1,36 @@
 {
   "name": "know-your-rewards",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "React app for calculating rewards",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpeese/know-your-rewards.git"
+  },
+  "keywords": [
+    "rewardpoints"
+  ],
+  "author": "Deepa Peese",
+  "license": "MIT",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.0",
+    "@material-ui/styles": "^4.0.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "axios": "^0.15.3",
+    "material-ui": "^0.20.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.28",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-dropzone": "^3.10.0",
+    "react-file-tree": "0.0.8",
+    "react-moment": "^0.9.7",
+    "react-router-dom": "^4.0.0",
+    "react-scripts": "3.4.0",
+    "superagent": "^3.4.4"
   },
   "scripts": {
     "start": "react-scripts start",

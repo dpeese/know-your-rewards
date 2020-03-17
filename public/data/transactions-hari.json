@@ -1,0 +1,87 @@
+[
+    {
+        "transactionDate": "2020-01-01T08:00:00Z",
+        "transactionAmount": 150.00,
+        "transactionType": "DEBIT",
+        "vendor": "ROSS STORES",
+        "transactionId": "US*8C7C03RM1",
+        "description": ""
+
+    },
+    {
+        "transactionDate": "2020-01-02T08:00:00Z",
+        "transactionAmount": 88.45,
+        "transactionType": "DEBIT",
+        "vendor": "MACYS",
+        "transactionId": "US*8C7C03RM2"
+
+    },
+    {
+        "transactionDate": "2020-01-03T08:00:00Z",
+        "transactionAmount": 110.00,
+        "transactionType": "DEBIT",
+        "vendor": "REAGEL",
+        "transactionId": "US*8C7C03RM3"
+
+    },
+    {
+        "transactionDate": "2020-01-04T08:00:00Z",
+        "transactionAmount": 33.45,
+        "transactionType": "CREDIT",
+        "vendor": "PAYMENT",
+        "transactionId": "US*8C7C03RM4",
+        "description": "THANK YOU"
+
+    },
+    {
+        "transactionDate": "2020-02-01T08:00:00Z",
+        "transactionAmount": 33.45,
+        "transactionType": "DEBIT",
+        "vendor": "MENDUS",
+        "transactionId": "US*8C7C03RM5",
+        "description": ""
+    
+    },
+    {
+        "transactionDate": "2020-02-02T08:00:00Z",
+        "transactionAmount": 33.45,
+        "transactionType": "DEBIT",
+        "vendor": "MENDU",
+        "transactionId": "US*8C7C03RM6"
+    
+    },
+    {
+        "transactionDate": "2020-02-03T08:00:00Z",
+        "transactionAmount": 110.00,
+        "transactionType": "DEBIT",
+        "vendor": "HTC STORES",
+        "transactionId": "US*8C7C03RM7"
+    
+    },
+    {
+        "transactionDate": "2020-02-04T08:00:00Z",
+        "transactionAmount": 120.00,
+        "transactionType": "CREDIT",
+        "vendor": "PAYMENT",
+        "transactionId": "US*8C7C03RM8",
+        "description": "THANK YOU"
+    
+    },
+    {
+        "transactionDate": "2020-03-03T08:00:00Z",
+        "transactionAmount": 110.00,
+        "transactionType": "DEBIT",
+        "vendor": "AMZN MKTP",
+        "transactionId": "US*8C7C03RM7"
+    
+    },
+    {
+        "transactionDate": "2020-03-04T08:00:00Z",
+        "transactionAmount": 120.00,
+        "transactionType": "CREDIT",
+        "vendor": "PAYMENT",
+        "transactionId": "US*8C7C03RM8",
+        "description": "THANK YOU"
+    
+    }
+]
